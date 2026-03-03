@@ -1,9 +1,9 @@
-**#AI_Powered_Motorcycle_Traffic_Violation_Monitoring_-_Analytical_Reporting_System**
-##Project Overview
+**# AI_Powered_Motorcycle_Traffic_Violation_Monitoring_-_Analytical_Reporting_System **
+## Project Overview
 
 This project presents an AI-driven system designed to automatically detect and analyze motorcycle traffic violations using deep learning models.
 
-##The system identifies:
+## The system identifies:
 
 - Riders without helmets
 
@@ -11,9 +11,9 @@ This project presents an AI-driven system designed to automatically detect and a
 
 - Mobile phone usage while riding
 
-###In addition to detection, the system generates structured analytical reports and violation statistics, converting raw predictions into meaningful traffic safety insights.
+### In addition to detection, the system generates structured analytical reports and violation statistics, converting raw predictions into meaningful traffic safety insights.
 
-##Objectives
+## Objectives
 
 Build an automated motorcycle violation detection system using YOLOv8
 
@@ -23,7 +23,7 @@ Generate structured safety reports and compliance metrics
 
 Compare multiple YOLOv8 model variants for performance evaluation
 
-##Technologies Used
+## Technologies Used
 
 Python
 
@@ -37,7 +37,7 @@ Pandas
 
 Matplotlib
 
-##Project Structure
+## Project Structure
 AI_Powered_Motorcycle_Traffic_Violation_Monitoring_-_Analytical_Reporting_System/
 │
 ├── dataset/
@@ -53,7 +53,7 @@ AI_Powered_Motorcycle_Traffic_Violation_Monitoring_-_Analytical_Reporting_System
 ├── requirements.txt
 └── README.md
 
-##Model Training
+## Model Training
 
 The model was trained on a custom annotated dataset of motorcycle riders under different violation scenarios.
 
@@ -65,7 +65,7 @@ Validation: 8%
 
 Test: 4%
 
-##Evaluation Metrics
+## Evaluation Metrics
 
 Model performance was evaluated using:
 
@@ -93,7 +93,7 @@ Overall traffic safety risk score
 
 This transforms the project from simple detection into a data-driven traffic monitoring and reporting system.
 
-##Key Features
+## Key Features
 
 ✔ Multi-class motorcycle violation detection
 ✔ Automated violation statistics generation
