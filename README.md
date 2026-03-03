@@ -1,4 +1,4 @@
-# AI_Powered_Motorcycle_Traffic_Violation_Monitoring_-_Analytical_Reporting_System 
+# Motorcycle Traffic Violation Monitoring System 
 ## Project Overview
 
 This project presents an AI-driven system designed to automatically detect and analyze motorcycle traffic violations using deep learning models.
